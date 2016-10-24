@@ -1,0 +1,10 @@
+console.log("hello")
+console.log("a")
+setTimeout(function()
+{
+	console.log("first")
+},5000);
+setTimeout(function()
+{
+	console.log("first2334")
+},1000);
